@@ -10,6 +10,7 @@ import android.util.Log;
 import java.util.logging.LogManager;
 
 public class MainActivity extends AppCompatActivity {
+    String s;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
